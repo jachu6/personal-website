@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2ec382c0-04d5-4a6d-9426-2c48d3055762
+      url: 'https://jasminechu.netlify.app/'
