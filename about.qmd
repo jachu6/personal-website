@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+Hi I'm Jasmine, a 4th year statistics and data science major at UCLA. 
+```{r}
+1 + 1
+```
