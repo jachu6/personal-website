@@ -2,7 +2,14 @@
 title: "About"
 ---
 
-Hi I'm Jasmine, a 4th year statistics and data science major at UCLA. 
-```{r}
-1 + 30
-```
+I'm Jasmine Chu, a fourth-year undergraduate student at UCLA, majoring in Statistics & Data Science and minoring in Film & Television. My academic background allows me to approach problems from both analytical and creative perspectives, combining data science with storytelling to bring unique insights and solutions.
+
+Currently, I am focused on applying my skills in data analysis and statistical modeling to real-world challenges. I am particularly interested in how data-driven insights can influence decision-making in the entertainment industry.
+
+When I'm not immersed in my studies, I enjoy dancing, video editing, hiking, going to concerts, and exploring new destinations! \newline
+
+<button onclick="window.open('Jasmine_Chu _resume_copy.pdf', '_blank')" type="button" class="btn btn-link">View my resume</button> \newline
+
+Contact me: <a href="mailto:jasminechu33@email.com">jasminechu33@email.com</a> \newline
+
+Connect with me: <a href="https://www.linkedin.com/in/jasmine-chu03/" target="_blank">https://www.linkedin.com/in/jasmine-chu03/</a>
