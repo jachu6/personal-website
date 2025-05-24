@@ -8,7 +8,7 @@ Currently, I am focused on applying my skills in data analysis and statistical m
 
 When I'm not immersed in my studies, I enjoy dancing, video editing, hiking, going to concerts, and exploring new destinations! \newline
 
-<button onclick="window.open('Jasmine_Chu_Resume.pdf', '_blank')" type="button" class="btn btn-link">Resume</button> \newline
+<button onclick="window.open('https://drive.google.com/file/d/1sfTCFxE2ImvxeAPmfMAyVPpi8IhYRcYN/view?usp=sharing', '_blank')" type="button" class="btn btn-link">Resume</button> \newline
 
 Contact me: <a href="mailto:jasminechu33@email.com">jasminechu33@email.com</a> \newline
 
