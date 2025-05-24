@@ -9,13 +9,41 @@ format:
 <div class="title-with-picture">
   <div class="text-content">
     <h1>Jasmine Chu</h1>
-    <h5>Hello! 👋 I'm Jasmine, a fourth-year undergraduate student at UCLA pursuing a major in Statistics & Data Science with a minor in Film & Television.</h5>
+    <h5>Hello! 👋 I'm Jasmine, a recent graduate from UCLA with a degree in Statistics & Data Science and minor in Film, Television, and Digital Media.</h5>
   </div>
   <img src="images/pfp_fall2024.jpg" class="profile-pic">
 </div>
 ```
 
 # Data Projects
+
+### <a href="https://drive.google.com/file/d/12h1orxDOjnl3yq6dE43vuZ6cjzhl-7nX/view?usp=sharing" target="_blank"> Analysis of Factors Influencing Bill Success in Massachusetts State-Level Legislature</a>
+
+##### Data Analyst & Researcher (Team) 
+
+##### March 2025
+
+- Led the network graph analysis in R on 60,000+ Massachusetts state bills, applying the Louvain algorithm and centrality metrics to uncover key legislators and collaboration patterns through co-sponsorship data
+- Collaborated with a team to analyze bill success factors for a client using chi-squared tests, logistic regression, and network analysis
+
+### <a href="caffeinePhysicalPerformanceFinalReport.pdf" target="_blank"> Caffeine and Physical Performance Study</a>
+
+##### Data Analyst & Researcher (Team)
+
+##### June 2024
+
+-   Conducted an experiment with 150 participants in the “The Islands” program to investigate the effect of varying caffeine levels on physical performance, specifically measuring 100m sprint times outdoors
+-   Applied statistical methods, including residual plots, blocking, and ANOVA, to analyze performance data
+-   Delivered data-driven recommendations for optimizing physical performance strategies
+
+### <a href="solarRadiationPredictionReport.pdf" target="_blank"> Solar Radiation Prediction Using Multiple Linear Regression</a>
+
+##### Data Analyst & Researcher (Team)
+
+##### March 2024
+
+-   Developed a power-transformed regression model using 32,686 HI-SEAS observations to predict solar radiation and provide climate insights for tracking patterns and impacts
+-   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy
 
 ### Project WE
 
@@ -29,35 +57,14 @@ format:
 -   Led the design and development process, utilizing Mobirise, HTML, and CSS
 -   Additionally created graphs & maps on Tableau, cleaned datasets, and finalized contents on the website
 
-### <a href="solarRadiationPredictionReport.pdf" target="_blank"> Solar Radiation Prediction Using Multiple Linear Regression</a>
-<<<<<<< HEAD
-##### Data Analyst & Researcher (Team)
-##### March 2024
--   Developed a power-transformed regression model using 32,686 HI-SEAS observations to predict solar radiation and provide climate insights for tracking patterns and impacts
--   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy
-=======
->>>>>>> 2b99fe6 (Update site)
-
-##### Data Analyst & Researcher (Team)
-
-##### March 2024
-
--   Developed a power-transformed regression model using 32,686 HI-SEAS observations to predict solar radiation and provide climate insights for tracking patterns and impacts
--   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy
-
-### <a href="caffeinePhysicalPerformanceFinalReport.pdf" target="_blank"> Caffeine and Physical Performance Study</a>
-
-##### Data Analyst & Researcher (Team)
-
-##### June 2024
-
--   Conducted an experiment with 150 participants in the “The Islands” program to investigate the effect of varying caffeine levels on physical performance, specifically measuring 100m sprint times outdoors
--   Applied statistical methods, including residual plots, blocking, and ANOVA, to analyze performance data
--   Delivered data-driven recommendations for optimizing physical performance strategies
-
 # Video Projects
 
 ##### Directed, filmed, and edited official trailers for UCLA Chinese Cultural Dance Club's annual showcases
+
+### Lotus Steps 2025 Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=m79xfRZjyG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 ### Lotus Steps 2024 Trailer
 
