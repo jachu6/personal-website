@@ -16,34 +16,57 @@ format:
 ```
 
 # Data Projects
+
 ### Project WE
+
 ##### Website: <a href="https://projectwe.github.io/" target="_blank"> https://projectwe.github.io/</a>
+
 ##### Web Designer & Web Developer
+
 ##### December 2022
+
 -   Constructed a data analysis on women's education with a team of 4 using datasets and visualizations
 -   Led the design and development process, utilizing Mobirise, HTML, and CSS
 -   Additionally created graphs & maps on Tableau, cleaned datasets, and finalized contents on the website
 
 ### <a href="solarRadiationPredictionReport.pdf" target="_blank"> Solar Radiation Prediction Using Multiple Linear Regression</a>
+<<<<<<< HEAD
 ##### Data Analyst & Researcher (Team)
 ##### March 2024
 -   Developed a power-transformed regression model using 32,686 HI-SEAS observations to predict solar radiation and provide climate insights for tracking patterns and impacts
 -   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy
+=======
+>>>>>>> 2b99fe6 (Update site)
 
-### <a href="caffeinePhysicalPerformanceFinalReport.pdf" target="_blank"> Caffeine and Physical Performance Study</a>  
 ##### Data Analyst & Researcher (Team)
+
+##### March 2024
+
+-   Developed a power-transformed regression model using 32,686 HI-SEAS observations to predict solar radiation and provide climate insights for tracking patterns and impacts
+-   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy
+
+### <a href="caffeinePhysicalPerformanceFinalReport.pdf" target="_blank"> Caffeine and Physical Performance Study</a>
+
+##### Data Analyst & Researcher (Team)
+
 ##### June 2024
+
 -   Conducted an experiment with 150 participants in the “The Islands” program to investigate the effect of varying caffeine levels on physical performance, specifically measuring 100m sprint times outdoors
 -   Applied statistical methods, including residual plots, blocking, and ANOVA, to analyze performance data
 -   Delivered data-driven recommendations for optimizing physical performance strategies
 
 # Video Projects
+
 ##### Directed, filmed, and edited official trailers for UCLA Chinese Cultural Dance Club's annual showcases
-### Lotus Steps 2024 Trailer 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ehvLCXI-knw?si=DaiYO0fxuOfAFLEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Lotus Steps 2024 Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehvLCXI-knw?si=DaiYO0fxuOfAFLEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 ### Lotus Steps 2023 Trailer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EnC7KYu1CkQ?si=3BEq9YxzcyIf0A-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EnC7KYu1CkQ?si=3BEq9YxzcyIf0A-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
-
+</iframe>
