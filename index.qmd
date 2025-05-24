@@ -28,9 +28,7 @@ format:
 ##### Data Analyst & Researcher (Team)
 ##### March 2024
 -   Developed a power-transformed regression model using 32,686 HI-SEAS observations to predict solar radiation and provide climate insights for tracking patterns and impacts
--   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy Project WE Los Angeles, CA Web Designer & Web Developer December 2022
--   Constructed a data analysis on women's education with a team of 4 using datasets and visualizations
--   Led the design and development process, utilizing Mobirise, HTML, and CSS
+-   Conducted data cleaning, Box-Cox transformations, and assumption testing for model accuracy
 
 ### <a href="caffeinePhysicalPerformanceFinalReport.pdf" target="_blank"> Caffeine and Physical Performance Study</a>  
 ##### Data Analyst & Researcher (Team)
